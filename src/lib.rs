@@ -1,0 +1,3 @@
+fn stuff() {
+    // empty function
+}
